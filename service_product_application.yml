@@ -38,4 +38,4 @@ eureka:
       defaultZone: http://localhost:7001/eureka/
 mybatis-plus:
   mapper-locations: classpath:cn/itsource/aigou/mapper/*Mapper.xml
-type-aliases-package: cn.itsource.aigou.domain,cn.itsource.aigou.query
+  type-aliases-package: cn.itsource.aigou.domain,cn.itsource.aigou.query
