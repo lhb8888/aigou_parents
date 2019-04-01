@@ -46,4 +46,4 @@ zuul:
     plat.serviceId: plat-service
     plat.path: /plat/**
     product.serviceId: product-service
-product.path: /product/**
+    product.path: /product/**
