@@ -28,7 +28,7 @@ spring:
     name: PRODUCT-SERVICE-TEST
   datasource:
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/aigou_test
+      url: jdbc:mysql://localhost:3306/aigou
       username: root
       password: 123456
   profiles: test
